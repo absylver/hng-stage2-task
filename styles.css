@@ -533,6 +533,7 @@ footer a {
     
     .main-message {
         font-size: 1.5rem;
+        top: 80%;
     }
     
     .main-message h1 {
@@ -597,7 +598,7 @@ footer a {
 
 @media (max-width: 665px) {
     .main-message {
-        top: 55%;
+        top: 80%;
     }
 
     .main-message h1 {
