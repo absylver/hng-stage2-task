@@ -202,7 +202,7 @@ caption {
     height: 100vh;
     background: linear-gradient(135deg, rgba(10, 70, 221, 0.5) 0%,
             rgba(0, 0, 0, 0.7) 100%),
-        url("assets/legates.svg") center no-repeat;
+        url("assets/IMG_4713-removebg-preview.png") center no-repeat;
     background-size: contain;
     position: relative;
 }
@@ -213,7 +213,7 @@ caption {
     text-transform: uppercase;
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 80%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
@@ -286,13 +286,7 @@ caption {
     min-height: 80vh;
 }
 
-.about-img img {
-    height: 12rem;
-    width: auto;
-    border-radius: 50%;
-    margin: 2rem;
-    box-shadow: 0 20px 30px 0 rgba(0, 255, 255, 0.15);
-}
+
 
 .about-text-box {
     flex-grow: 1;
@@ -342,7 +336,6 @@ hr {
 }
 
 .title-heading p {
-    text-transform: lowercase;
     font-family: "Poppins", sans-serif;
     margin-bottom: 5rem;
 }
@@ -432,6 +425,7 @@ hr {
 }
 
 /* Contact */
+
 
 .contact {
     width: 100%;
@@ -532,9 +526,10 @@ footer a {
         height: 100vh;
         background: linear-gradient(135deg, rgba(10, 70, 221, 0.5) 0%,
                 rgba(0, 0, 0, 0.7) 100%),
-            url("assets/legates.svg") center no-repeat;
+            url("assets/IMG_4713-removebg-preview.png") center no-repeat;
         background-size: cover;
     }
+
     
     .main-message {
         font-size: 1.5rem;
